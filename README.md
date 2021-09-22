@@ -6,6 +6,6 @@
 ## Использованы: 
   ### + HTML5,
   ### + CSS3,
-  ### + SCSS
+  ### + SCSS,
   ### + сетка Boostrap
 [GitHub pages](https://safonix.github.io/uber/)
