@@ -7,5 +7,6 @@
   ### + HTML5,
   ### + CSS3,
   ### + SCSS,
+  ### + JS,
   ### + сетка Boostrap
 [GitHub pages](https://safonix.github.io/uber/)
