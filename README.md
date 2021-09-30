@@ -1,5 +1,5 @@
 
-  # [Landing Page - Ube](https://safonix.github.io/uber/)
+  # [Landing Page - Uber](https://safonix.github.io/uber/)
 
 ## Свёрстан в рамках обучения на курсе Udemy (WEB-разработчик 2021), не предназначен для коммерческого использования.
 ## При вёрстке макета: 
